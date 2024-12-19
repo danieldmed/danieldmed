@@ -10,4 +10,7 @@ Oi, eu sou o Daniel, tenho 20 anos e moro em São Paulo. Sou apaixonado por tecn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div>
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+</div>
+
