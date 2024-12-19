@@ -10,6 +10,7 @@ Oi, eu sou o Daniel, tenho 20 anos e moro em São Paulo. Sou apaixonado por tecn
 
 ##
 
-<div>
+<div style="display: inline_block">
   <a href="mailto:duartedaniel.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/daniel-duarte-medeiros-aa8134230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
