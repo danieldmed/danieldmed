@@ -9,3 +9,7 @@ Oi, eu sou o Daniel, tenho 20 anos e moro em São Paulo. Sou apaixonado por tecn
 </div>
 
 ##
+
+<div>
+  <a href="mailto:duartedaniel.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
