@@ -12,5 +12,6 @@ Oi, eu sou o Daniel, tenho 20 anos e moro em São Paulo. Sou apaixonado por tecn
 
 <div>
   https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  <i class="devicon-html5-plain colored"></i>
 </div>
 
